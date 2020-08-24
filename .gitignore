@@ -1,0 +1,4 @@
+*.gpg.asc
+*.gpg.asc.asc
+.fseventsd
+tmp
